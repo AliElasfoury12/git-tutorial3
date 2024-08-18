@@ -1,1 +1,2 @@
-conflect 2
+
+conflect 1
