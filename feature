@@ -1,2 +1,4 @@
 
-conflect 1
+conflect 1 
+
+new-feature
